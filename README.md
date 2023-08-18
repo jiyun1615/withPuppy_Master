@@ -1,3 +1,4 @@
+
 # 강아지와
 
 > 반려견 관련 종합 컨텐츠
@@ -24,9 +25,26 @@ https://electric-hat-2a3.notion.site/8beb79dc8c9a4817885614ba245c9e2b?pvs=4
 - 전체게시판, 자유게시판, 수도권, 지방
   - 게시판 형태의 crud ...
 
+
 ### 쇼핑몰
-- 쇼핑몰메인 : 카테고리 
-- 장바구니 : 
+- 카테고리별 상품 조회 페이지 : 카테고리에 따른 상품 분류, 페이지네이션, 정렬기준 변경
+- 상품상세 페이지 : 상품에 대한 상세 정보, 수량 선택 및 장바구니 담기
+- 장바구니 페이지 : 상품 삭제, 수량 변경, 장바구니 총액 표시, 결제하기 페이지로 이동
+- 주문 확인서 페이지 : 주문 정보, 주문자 정보 입력, 결제 API 연동
+    - transaction 처리를 통해, 재고 수량 부족의 경우 exception, 재고 감소 및 품절처리
+- 관리자 상품관리 페이지 : 상품 검색, 정렬 조회, 상품 정보 수정, 상품 등록, 상품 삭제 기능
+- 관리자 매출 통계 페이지 : 매출 현황 정보, 카테고리별 매출 그래프, 기간별 매출 조회
+- 
+![1](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/c8e8041b-adfa-4d46-acf1-f00efc3ac4d7)
+![2](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/5f5b2461-a2e2-4a9c-8dfa-7d2b503a270a)
+![4](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/635d1c05-32d4-4081-8b98-4e7eb7df5ce0)
+![5](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/c18d7049-5ebb-4925-9495-0d84e5817f6f)
+![6](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/030bdc7a-138b-4320-a762-93b4fff7f409)
+![7](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/74953788-a50b-48d2-a9dd-e8c1b3dfafb1)
+![8](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/838ccfc4-7403-4e22-9ce6-6d2167b88836)
+![9](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/25b5b305-a6d6-48b6-b0df-56e19d3d916e)
+![10](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/5a4840da-cf92-4432-b0b6-ce7f9cab832f)
+
 
 ### 동물병원
 - 동물병원 찾기 페이지, 본인 위치 기반 근처 5개의 병원 리스트업, 검색
