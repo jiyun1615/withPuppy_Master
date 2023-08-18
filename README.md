@@ -34,7 +34,7 @@ https://electric-hat-2a3.notion.site/8beb79dc8c9a4817885614ba245c9e2b?pvs=4
     - transaction 처리를 통해, 재고 수량 부족의 경우 exception, 재고 감소 및 품절처리
 - 관리자 상품관리 페이지 : 상품 검색, 정렬 조회, 상품 정보 수정, 상품 등록, 상품 삭제 기능
 - 관리자 매출 통계 페이지 : 매출 현황 정보, 카테고리별 매출 그래프, 기간별 매출 조회
-- 
+  
 ![1](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/c8e8041b-adfa-4d46-acf1-f00efc3ac4d7)
 ![2](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/5f5b2461-a2e2-4a9c-8dfa-7d2b503a270a)
 ![4](https://github.com/jiyun1615/withPuppy_Master/assets/51588209/635d1c05-32d4-4081-8b98-4e7eb7df5ce0)
